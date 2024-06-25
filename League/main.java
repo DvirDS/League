@@ -21,7 +21,7 @@ public class main {
 		System.out.println("-----------------The football league is over------------------");
 		System.out.println("---------------to see the final table press 10----------------");
 		league.Menu();
-		// test update1
+		
 		
 	}
 
